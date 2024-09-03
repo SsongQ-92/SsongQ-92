@@ -60,6 +60,7 @@
   <h6>'Do a job every moment with an attitude I had from the first time starting it.' is my motto.</h6>
   <h6>더 나은 사람이 될 수 있는 방향을 선택하고 그에 따라 나아갈 때 추진력 있게 실행합니다.</h6>
   <h6>겸손하고 솔직하고자 하며, 꾸준히 배우고 성장하는 삶을 지향합니다.</h6>
+  <h6>코드는 거짓말하지 않는다!</h6>
   <h4>Interest</h4>
   <h6>Frontend | UI/UX | Product/Project Management </h6>
   <h4>How to reach me</h4>
