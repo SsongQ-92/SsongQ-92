@@ -4,6 +4,13 @@
   
 </div>
 
+<h3 align=center style="font-size: 36px">In development on my own</h3>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
+  <div align=center>
+    <a href="https://share-your-docs.netlify.app/"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  </div>
+</div>
+
 <h3 align=center style="font-size: 36px">Contact</h3>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
   <div align=center>
