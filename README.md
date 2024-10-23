@@ -2,7 +2,7 @@
 
 <h5> ✨ Frontend | UI/UX </h5>
 
-<h6>1. Open Source Contribute for react-router(https://github.com/remix-run/react-router/pull/12044)</h6>
+<h6>1. Open Source Contribute for React-Router(https://github.com/remix-run/react-router/pull/12044)</h6>
 <h6>2. 'Do a job every moment with an attitude I had from the first time starting it.' is my motto.</h6>
 <h6>3. 무언가를 만드는 것을 좋아합니다. 만들면서 유저의 경험을 상상하는 것도 굉장히 좋아합니다.</h6>
 <h6>4. 코드는 거짓말하지 않는다고 생각합니다.</h6>
