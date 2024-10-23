@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
 </div>
 
 <div align="left">
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/React_Query-purple?style=flat&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/zustand-181c20?style=flat&logo=zustand&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
 </div>
 
 ## 🐱‍🏍 Contact
