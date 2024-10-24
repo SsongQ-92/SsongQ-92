@@ -2,6 +2,8 @@
 
 <h5> ✨ Frontend | UI/UX </h5>
 
+##### [📜 Blog | 블로그](https://sssongq.vercel.app)
+
 <h6>1. Open Source Contribute for React-Router(https://github.com/remix-run/react-router/pull/12044)</h6>
 <h6>2. 'Do a job every moment with an attitude I had from the first time starting it.' is my motto.</h6>
 <h6>3. 무언가를 만드는 것을 좋아합니다. 만들면서 유저의 경험을 상상하는 것도 굉장히 좋아합니다.</h6>
@@ -31,6 +33,9 @@
 
 ## 🐱‍🏍 Contact
 
+<a href="https://sssongq.vercel.app">
+  <img src="https://img.shields.io/badge/ssongq.blog-000000?style=flat&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/kyukyoungsong/">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
