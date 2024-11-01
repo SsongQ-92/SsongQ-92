@@ -2,7 +2,7 @@
 
 <h5> ✨ Frontend | UI/UX </h5>
 
-##### [📜 Blog | 블로그](https://ssongq.vercel.app/blog)
+##### [📜 Blog | 블로그](https://ssongq.com)
 
 <h6>1. Open Source Contribute for React-Router(https://github.com/remix-run/react-router/pull/12044)</h6>
 <h6>2. 'Do a job every moment with an attitude I had from the first time starting it.' is my motto.</h6>
