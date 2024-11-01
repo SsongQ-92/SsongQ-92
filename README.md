@@ -33,7 +33,7 @@
 
 ## 🐱‍🏍 Contact
 
-<a href="https://ssongq.vercel.app/blog">
+<a href="https://ssongq.com">
   <img src="https://img.shields.io/badge/ssongq.blog-000000?style=flat&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kyukyoungsong/">
