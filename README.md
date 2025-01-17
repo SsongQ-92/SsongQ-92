@@ -2,21 +2,12 @@
 
 ##### ✨ Frontend | UI/UX
 
+##### 📄 [ Blog | 개인 블로그](https://ssongq.com)
+
 ###### 1. Open Source Contribute for React-Router(https://github.com/remix-run/react-router/pull/12044)
 ###### 2. 'Do a job every moment with an attitude I had from the first time starting it.' is my motto.
 ###### 3. 무언가를 만드는 것을 좋아합니다. 만들면서 유저의 경험을 상상하는 것도 굉장히 좋아합니다.
 ###### 4. 코드는 거짓말하지 않는다고 생각합니다.
-
-## 💻 Projects
-
-###### 1. Attention, 읽기 가이드라인 표시와 드로잉 주석 기능 통합 제공의 확장 프로그램
-> [Link](https://chrome.google.com/webstore/devconsole/e5032656-c2e8-44b5-bbff-e8d8395c823a/hakidcoicmfocffkkkefhiifdahdaeme/analytics/installs) / [Repo](https://github.com/SsongQ-92/Attention)
-
-###### 2. Bloblow, 키워드 기반으로 네이버 블로그 게시물을 분석하여 사용자의 프로덕트 모니터링 효율을 향상하는 웹 애플리케이션
-> [Link](https://bloblow.netlify.app/) / [Client Repo](https://github.com/Team-Bloblow/Bloblow-Client) / [Server Repo](https://github.com/Team-Bloblow/Bloblow-Server) / [Crawling Repo](https://github.com/Team-Bloblow/Bloblow-puppeteer)
-
-###### 3. Blog | 개인 블로그, 개발하며 기술을 활용한 경험과 느낀점을 공유하고, 다양한 회고와 인사이트를 기록하는 블로그
-> [Link](https://ssongq.com/) / [Repo](https://github.com/SsongQ-92/ssongq.blog)
 
 ## 👾 Tech Stack
 
