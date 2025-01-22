@@ -1,15 +1,33 @@
-## 🙋‍♂️ About Me
+## Hi, I'm Kyukyoung! Frontend Developer ☕ <div align="right">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsongQ-92&count_bg=%235367C0&title_bg=%23161616&icon=react.svg&icon_color=%23D98BEC&title=SsongQ&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
-##### ✨ Frontend | UI/UX
+### About Me
 
-##### 📄 [ Blog | 개인 블로그](https://ssongq.com)
+안녕하세요. 송규경입니다.
 
-###### 1. Open Source Contribute for React-Router(https://github.com/remix-run/react-router/pull/12044)
-###### 2. 'Do a job every moment with an attitude I had from the first time starting it.' is my motto.
-###### 3. 무언가를 만드는 것을 좋아합니다. 만들면서 유저의 경험을 상상하는 것도 굉장히 좋아합니다.
-###### 4. 코드는 거짓말하지 않는다고 생각합니다.
+불편함을 해결하거나 편리함을 제공하는 프로덕트를 직접 만들 수 있다는 점에서 개발에 매력을 느꼈습니다. <br />
+그렇기에 서비스를 이용하는 유저 입장에서 상상하는 것을 좋아하고 UI/UX에 깊은 관심이 있습니다. <br /> 
+도움이 될 수 있는 서비스를 개발하고자 하는 것이 공부하는 동기이자 목표입니다.
 
-## 👾 Tech Stack
+### Project
+
+- Attention | 긴 글 읽기를 돕는 크롬 익스텐션 - [Link](https://chromewebstore.google.com/detail/attention-web-reading-ass/hakidcoicmfocffkkkefhiifdahdaeme?authuser=0&hl=ko) / [Repo](https://github.com/SsongQ-92/Attention)
+  - `TypeScript`, `React`, `Zustand`, `Tailwind CSS`, `ESBuild`
+- Bloblow | 네이버 블로그 게시물 분석 플랫폼 - [Link](https://bloblow.netlify.app/) / [Client Repo](https://github.com/Team-Bloblow/Bloblow-Client) / [Server Repo](https://github.com/Team-Bloblow/Bloblow-Server) / [Crawling Repo](https://github.com/Team-Bloblow/Bloblow-puppeteer)
+  - `JavaScript`, `React`, `React Router`, `TanStack Query`, `Node.js`, `Express`, `MongoDB`, `Mongoose`
+- Blog | 개인 기술 블로그 - [Link](https://ssongq.com) / [Repo](https://github.com/SsongQ-92/ssongq.blog)
+  - `TypeScript`, `Next.js 14`, `MDX`, `Tailwind CSS`
+
+### Contact
+
+Blog - [ssongq](https://ssongq.com) <br />
+Mail - [ssongq@gmail.com](mailto:ssongq@gmail.com) <br />
+LinkedIn - [in/kyukyoungsong](https://www.linkedin.com/in/kyukyoungsong/)
+
+### Activity
+
+Open Source Contribute | 오픈소스 기여 - [React Router Document](https://github.com/remix-run/react-router/pull/12044)
+
+### Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
@@ -28,22 +46,5 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
 </div>
 
-## 🐱‍🏍 Contact
-
-<a href="https://ssongq.com">
-  <img src="https://img.shields.io/badge/ssongq.blog-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kyukyoungsong/">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:skdmlrh12@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-## 💻 Activity
-
-![SsongQ-92's github stats](https://github-readme-stats.vercel.app/api?username=SsongQ-92&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsongQ-92&count_bg=%235367C0&title_bg=%23161616&icon=react.svg&icon_color=%23D98BEC&title=SsongQ&edge_flat=false)
-
+<!-- ![SsongQ-92's github stats](https://github-readme-stats.vercel.app/api?username=SsongQ-92&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github) --!>
 <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SsongQ-92&layout=compact&theme=tokyonight) --!>
