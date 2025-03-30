@@ -1,4 +1,4 @@
-## Hi, I'm Kyukyoung! Frontend Developer ☕ <div align="right">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsongQ-92&count_bg=%235367C0&title_bg=%23161616&icon=react.svg&icon_color=%23D98BEC&title=SsongQ&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+## Hi, I'm Kyukyoung! Frontend Developer ☕ 
 
 ### About Me
 
