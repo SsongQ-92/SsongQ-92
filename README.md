@@ -15,12 +15,12 @@
   - `TypeScript`, `React`, `Zustand`, `Tailwind CSS`, `ESBuild`
 - Bloblow | 네이버 블로그 게시물 분석 플랫폼 - [Link](https://bloblow.netlify.app/) / [Client Repo](https://github.com/Team-Bloblow/Bloblow-Client) / [Server Repo](https://github.com/Team-Bloblow/Bloblow-Server) / [Crawling Repo](https://github.com/Team-Bloblow/Bloblow-puppeteer)
   - `JavaScript`, `React`, `React Router`, `TanStack Query`, `Node.js`, `Express`, `MongoDB`, `Mongoose`
-- Blog | 개인 기술 블로그 - [Link](https://ssongq.com) / [Repo](https://github.com/SsongQ-92/ssongq.blog)
+- Blog | 개인 기술 블로그 - [Link](https://ssongq.vercel.app/blog) / [Repo](https://github.com/SsongQ-92/ssongq.blog)
   - `TypeScript`, `Next.js 14`, `MDX`, `Tailwind CSS`
 
 ### Contact
 
-Blog - [ssongq](https://ssongq.com) <br />
+Blog - [ssongq](https://ssongq.vercel.app/blog) <br />
 Mail - [ssongq@gmail.com](mailto:ssongq@gmail.com) <br />
 LinkedIn - [in/kyukyoungsong](https://www.linkedin.com/in/kyukyoungsong/)
 
